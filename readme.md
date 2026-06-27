@@ -1,4 +1,4 @@
-# Ekstrasi Citra Menggunakan Machine Learning
+# Ekstrasi Citra Tumor Otak Menggunakan Machine Learning
 
 ## Library
 - pandas
